@@ -1,7 +1,6 @@
 {
-  "name": "dextop_whatsapp_voice_dual",
-  "version": "1.0.1",
-  "download": "dextop_whatsapp_voice_dual-1.0.1.nvda-addon",
-  "channel": "stable",
-  "notes": "Corrección de compatibilidad para la tienda de complementos de NVDA: lastTestedNVDAVersion actualizado a 2026.2.0 y URL del repositorio corregida. Mantiene el modo dual interno y los mismos comandos."
+  "version": "1.0.2",
+  "download_url": "https://github.com/nicoalfaro2026/dextop-whatsapp-voice-dual/releases/download/v1.0.2/dextop_whatsapp_voice_dual-1.0.2.nvda-addon",
+  "sha256": "132210cd9441deb74ad43da8fa7034ae41171451aa944479356dabb1025b8509",
+  "notes": "Corrección de lastTestedNVDAVersion para validación estable de la tienda de NVDA."
 }

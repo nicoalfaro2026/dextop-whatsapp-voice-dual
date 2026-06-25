@@ -1,2 +1,1 @@
-99f5805da94034436464dac24444d21cbd04cc0bd95fd1b4c78dbecd324a4c73  dextop_whatsapp_voice_dual-1.0.1.nvda-addon
-99f5805da94034436464dac24444d21cbd04cc0bd95fd1b4c78dbecd324a4c73  source_dextop_whatsapp_voice_dual-1.0.1.zip
+132210cd9441deb74ad43da8fa7034ae41171451aa944479356dabb1025b8509  dextop_whatsapp_voice_dual-1.0.2.nvda-addon

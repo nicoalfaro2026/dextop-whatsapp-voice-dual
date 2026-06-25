@@ -1,0 +1,13 @@
+Dextop WhatsApp Voice Dual 1.0.2
+
+Corrección para la tienda de complementos de NVDA:
+- Se cambió lastTestedNVDAVersion de 2026.2.0 a 2025.3.3.
+- 2026.2.0 todavía es experimental y no se acepta para envíos al canal stable.
+
+No se cambiaron funciones del complemento.
+
+Comandos:
+- NVDA+Shift+W: comprobar estado de WhatsApp Desktop.
+- NVDA+Shift+V: comprobar estado de WhatsApp Beta.
+- NVDA+Control+Shift+W: pulsar dos veces para iniciar modo dual.
+- NVDA+Alt+Shift+W: limpiar o desactivar configuración WebView2.

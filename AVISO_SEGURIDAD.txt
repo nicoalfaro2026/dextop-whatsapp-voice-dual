@@ -1,3 +1,4 @@
-# Aviso de seguridad
+Aviso de seguridad
 
-Este complemento configura puertos locales de depuración WebView2 para WhatsApp Desktop y WhatsApp Beta. Debe usarse en equipos personales o de confianza.
+Este complemento configura argumentos de WebView2 para WhatsApp Desktop y WhatsApp Beta en el equipo local.
+Debe usarse solo en computadoras personales o de confianza.

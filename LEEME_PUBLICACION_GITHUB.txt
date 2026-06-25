@@ -1,14 +1,6 @@
-# Publicación GitHub - Dextop WhatsApp Voice Dual 1.0.1
+# Publicación GitHub - Dextop WhatsApp Voice Dual 1.0.2
 
-Subir estos archivos al repositorio o crear una nueva release v1.0.1.
+Subí estos archivos al repositorio y crea una release v1.0.2.
 
-Release recomendada:
-- Tag: v1.0.1
-- Título: Dextop WhatsApp Voice Dual 1.0.1
-- Adjuntar: dextop_whatsapp_voice_dual-1.0.1.nvda-addon
-
-Repositorio:
-https://github.com/nicoalfaro2026/dextop-whatsapp-voice-dual
-
-URL directa de descarga para el formulario NVDA:
-https://github.com/nicoalfaro2026/dextop-whatsapp-voice-dual/releases/download/v1.0.1/dextop_whatsapp_voice_dual-1.0.1.nvda-addon
+Cambio principal:
+- lastTestedNVDAVersion = 2025.3.3, porque 2026.2.0 aún es experimental y no se acepta en el canal stable.
