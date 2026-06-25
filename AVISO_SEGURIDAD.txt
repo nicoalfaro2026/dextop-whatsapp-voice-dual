@@ -1,8 +1,3 @@
-AVISO DE SEGURIDAD
+# Aviso de seguridad
 
-Este complemento usa depuración local de WebView2 en 127.0.0.1 para poder inyectar el ajuste de audio en WhatsApp Desktop y WhatsApp Beta.
-
-Recomendación:
-- Usar solo en equipos personales o de confianza.
-- No usar en computadoras públicas.
-- Si se desea desactivar la configuración, usar NVDA+Alt+Shift+W o desinstalar el complemento.
+Este complemento configura puertos locales de depuración WebView2 para WhatsApp Desktop y WhatsApp Beta. Debe usarse en equipos personales o de confianza.
