@@ -1,0 +1,7 @@
+{
+  "name": "dextop_whatsapp_voice_dual",
+  "version": "1.0.0",
+  "download": "dextop_whatsapp_voice_dual-1.0.0.nvda-addon",
+  "channel": "stable",
+  "notes": "Versión inicial. Modo dual interno: NVDA+Control+Shift+W dos veces cierra y abre WhatsApp Desktop en 59222 y WhatsApp Beta en 59223. Si solo hay una variante instalada, prepara solo la disponible. NVDA+Shift+W informa Desktop y NVDA+Shift+V informa Beta."
+}

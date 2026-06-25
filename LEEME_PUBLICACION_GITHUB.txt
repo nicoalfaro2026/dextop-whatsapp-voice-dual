@@ -1,0 +1,27 @@
+Dextop WhatsApp Voice Dual 1.0.0
+Creado por Nicolás Alfaro
+
+Versión inicial para GitHub.
+
+Archivos incluidos:
+- dextop_whatsapp_voice_dual-1.0.0.nvda-addon: complemento listo para instalar en NVDA.
+- source_dextop_whatsapp_voice_dual-1.0.0.zip: código fuente del complemento.
+- latest.json: archivo para actualización en la nube.
+- AVISO_SEGURIDAD.txt: aviso sobre depuración local de WebView2.
+- SHA256SUMS.txt: hashes de verificación.
+
+Comandos:
+- NVDA+Shift+W: estado de WhatsApp Desktop.
+- NVDA+Shift+V: estado de WhatsApp Beta.
+- NVDA+Control+Shift+W dos veces en menos de 5 segundos: iniciar o reiniciar modo dual.
+- NVDA+Alt+Shift+W: limpiar/desactivar configuración WebView2.
+
+Uso recomendado:
+1. Instalar el complemento en NVDA.
+2. Reiniciar NVDA.
+3. Pulsar NVDA+Control+Shift+W dos veces para iniciar el modo dual.
+4. Si están instalados WhatsApp Desktop y WhatsApp Beta, el complemento cerrará y abrirá ambos configurados en puertos separados.
+5. Si solo está instalada una variante, el complemento abrirá únicamente la disponible y avisará que la otra no está instalada.
+
+Nota:
+Después de reiniciar Windows, ejecutar el modo dual una vez si se quiere usar WhatsApp Desktop y WhatsApp Beta al mismo tiempo.

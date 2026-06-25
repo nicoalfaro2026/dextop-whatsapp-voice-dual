@@ -1,0 +1,16 @@
+Notas de la versión 1.0.0
+
+Versión inicial de Dextop WhatsApp Voice Dual.
+
+Incluye:
+- Soporte para WhatsApp Desktop.
+- Soporte para WhatsApp Beta.
+- Modo dual interno con NVDA+Control+Shift+W dos veces.
+- WhatsApp Desktop se abre en el puerto 59222.
+- WhatsApp Beta se abre en el puerto 59223.
+- Si solo está instalado WhatsApp Desktop o solo WhatsApp Beta, el comando prepara únicamente la variante disponible.
+- Comandos separados de estado: NVDA+Shift+W para Desktop y NVDA+Shift+V para Beta.
+- Limpieza/desactivación con NVDA+Alt+Shift+W.
+
+Importante:
+Para usar Desktop y Beta a la vez, se debe iniciar el modo dual una vez después de encender la computadora.
